@@ -10,7 +10,8 @@ Available here are phrase tables for inflected forms in each of 10 languages, wi
  - Swahili: 65,614
  - Urdu: 54,493
 
-Each table was constructed according to the method described in *Automatic Construction of Morphologically Motivated Translation Models for Highly Inflected, Low-Resource Languages*, AMTA 2016.
+Each table was constructed according to the method described in *Automatic Construction of Morphologically Motivated Translation Models for Highly Inflected, Low-Resource Languages*, AMTA 2016. 
+If you use these tables, please cite the paper.
 
 For questions, concerns, or new language requests, please contact [John Hewitt](mailto:johnhew@seas.upenn.edu).
 
